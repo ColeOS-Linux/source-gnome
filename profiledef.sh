@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="coleOS"
+iso_name="coleOS-GNOME"
 iso_label="COLE_$(date +%y%m)"
 iso_publisher="colebolebole"
 iso_application="colebolebole DVD"

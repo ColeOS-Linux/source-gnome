@@ -87,7 +87,7 @@ zsh
 grub
 
 # System
-archlinux-appstream-data-pamac
+archlinux-appstream-data
 appstream-glib
 libpamac-nosnap
 pamac-nosnap
@@ -182,13 +182,80 @@ nss-mdns
 wget
 whois
 
-# Xfce
-xfce4
-xfce4-goodies
-xarchiver
+# GNOME
+accountsservice
+adwaita-icon-theme
+adwaita-qt5
+adwaita-qt6
+aisleriot
+arc-gtk-theme
+arc-solid-gtk-theme
+asunder
+baobab
+brasero
+dconf-editor
+eog
+evince
+file-roller
+geany
+ghex
+gnome-applets
+gnome-backgrounds
+gnome-bluetooth-3.0
+gnome-calculator
+gnome-calendar
+gnome-characters
+gnome-clocks
+gnome-color-manager
+gnome-console
+gnome-control-center
+gnome-desktop
+gnome-firmware
+gnome-font-viewer
+gnome-icon-theme-extras
+gnome-keyring
+gnome-logs
+gnome-maps
+gnome-menus
+gnome-power-manager
+gnome-remote-desktop
+gnome-screenshot
+gnome-session
+gnome-settings-daemon
+gnome-shell
+gnome-shell-extensions
+gnome-system-monitor
+gnome-text-editor
+gnome-tweaks
+gnome-user-docs
+gnome-user-share
+gnome-video-effects
+gnome-weather
+grilo-plugins
+gsound
+guake
+guvcview
+gvfs-google
+meld
+mutter
+nautilus
+neofetch
+orca
+papirus-icon-theme
+pavucontrol
+polkit-gnome
+rygel
+sushi
+tldr
+tmux
+tracker3-miners
+transmission-gtk
+xdg-desktop-portal-gnome
+xdg-user-dirs-gtk
+yelp
 
 # Display Manager
-sddm
+gdm
 
 # Calamares dependencies (not listed elsewhere)
 boost
