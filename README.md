@@ -1,5 +1,7 @@
 <h1>Welcome to coleOS!</h1>
 <p>This is the public source code for coleOS linux!</p>
+<p> CURRENTLY BROKEN! we will fix it as soon as possible</p>
+
 <p>&nbsp;</p>
 <p>I'm releasing this because i no longer have the time &amp; effort into making these ISO's.</p>
 <p>Based on <a href="https://sourceforge.net/projects/ezarch/" target="_blank">eznix's ezarcher project.</a></p>
